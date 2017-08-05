@@ -1,0 +1,86 @@
+	{ 
+		
+		"playing-tweety-polygon": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   36, 70  ,  17, 61  ,  48, 12  ,  77, 38  ]
+				}  
+		]
+		
+		,
+		"goal": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   173, 0  ,  173, 320  ,  0, 320  ,  0, 0  ]
+				}  
+		]
+		
+		, 
+		"playing-bunny-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   66, 134  ,  10, 96  ,  63, 1  ,  167, 1  ]
+				}  
+		]
+		
+		, 
+		"playing-bugs-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   43, 1  ,  176, 1  ,  162, 105  ,  26, 165  ]
+				}  
+		]
+		
+		,
+		"playing-gossamer": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   109, 0  ,  189, 139  ,  125, 159  ,  58, 101  ,  4, 0  ]
+				}  
+		]
+		
+		,		
+		"playing-taz-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   155, 28  ,  208, 150  ,  25, 150  ,  25, 5  ]
+				}  
+		]
+		
+		, 
+		"playing-daffy": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   92, 97  ,  186, 153  ,  20, 154  ,  3, 101  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   92, 97  ,  105, 5  ,  152, 17  ,  186, 153  ]
+				}  
+		]
+		
+		,
+		"playing-lola": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   160, 49  ,  160, 152  ,  114, 152  ,  4, 82  ,  21, 1  ]
+				}  
+		]
+	}

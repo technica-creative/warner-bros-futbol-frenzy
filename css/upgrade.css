@@ -1,0 +1,130 @@
+/* ===============================================
+ GENERAL
+=============================================== */
+html,body {
+	background-color: #000000;
+    height: 100%;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}
+
+div {
+	margin: 0px;
+	padding: 0px;
+}
+
+a, a:hover, a:active, a:focus {
+ 	outline: 0;
+}
+
+#main_wrapper {
+	height: 100%;
+    overflow: auto;
+    position: relative;
+    width: 100%;
+}
+
+#upgradeImg {
+    display: block;
+    position: absolute;
+}
+
+
+#body_wrapper {
+    border: medium none;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+
+
+#logo {
+    background-image: url("../assets/upgrade/logo.png");
+    display: block;
+    height: 178px;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 336px;
+}
+
+#content {
+	margin: 0 auto;
+    position: relative;
+    width: 1024px;
+}
+
+
+#browsers {
+	display: inline-block;
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+}
+
+#browsers li {
+	background-image: url("../assets/upgrade/ellipse.png");
+    display: inline-block;
+    height: 124px;
+    width: 124px;
+}
+
+#browsers li a {
+	display: block;	
+}
+
+.chrome {
+	background-image: url("../assets/upgrade/browser.png");
+	background-position: 0 0;
+	height: 83px;
+	width: 83px;
+	margin: 22px;
+}
+
+.firefox {
+	background-image: url("../assets/upgrade/browser.png");
+	background-position: -83px 0;
+	height: 83px;
+	width: 83px;
+	margin: 22px;
+}
+
+.safari {
+	background-image: url("../assets/upgrade/browser.png");
+	background-position: -249px 0;
+	height: 83px;
+	width: 83px;
+	margin: 18px 22px 22px 22px;
+}
+
+
+.ie {
+	background-image: url("../assets/upgrade/browser.png");
+	background-position: -166px 0;
+	height: 83px;
+	width: 83px;
+	margin: 20px 22px 22px 18px;
+}
+
+#tweety {
+	background: url("../assets/upgrade/tweety.png") no-repeat scroll;
+	background-position: 0px 0px;
+    height: 171px;
+    position: absolute;
+    right: 130px;
+    top: 210px;
+    width: 148px;
+}
+
+#tweety-ball {
+	background: url("../assets/upgrade/ball.png") no-repeat scroll;
+	background-position: 0px 0px;
+    height: 71px;
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    width: 72px;
+}

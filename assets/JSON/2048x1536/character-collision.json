@@ -1,0 +1,86 @@
+	{ 
+		
+		"playing-tweety-polygon": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   114, 233  ,  68, 208  ,  163, 43  ,  254, 135  ]
+				}  
+		]
+		
+		,
+		"goal": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   450, 1536  ,  4, 1536  ,  5, 0  ,  451, 0  ]
+				}  
+		]
+		
+		, 
+		"playing-bunny-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   266, 535  ,  44, 397  ,  262, 2  ,  687, 2  ]
+				}  
+		]
+		
+		, 
+		"playing-bugs-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   142, 1  ,  587, 2  ,  538, 371  ,  52, 579  ]
+				}  
+		]
+		
+		,
+		"playing-gossamer": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   378, 0  ,  647, 483  ,  389, 537  ,  176, 302  ,  4, 1  ]
+				}  
+		]
+		
+		,		
+		"playing-taz-spritesheet": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   519, 124  ,  744, 510  ,  100, 510  ,  100, 23  ]
+				}  
+		]
+		
+		, 
+		"playing-daffy": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   555, 84  ,  626, 524  ,  336, 353  ,  369, 24  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   40, 524  ,  7, 358  ,  336, 353  ,  626, 524  ]
+				}  
+		]
+		
+		,
+		"playing-lola": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   -5, 271  ,  64, 0  ,  541, 160  ,  543, 518  ]
+				}  
+		]
+	}

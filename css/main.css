@@ -1,0 +1,73 @@
+body{
+	background: url("../assets/bg.jpg") repeat-x scroll left bottom #42c2ea;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	margin: 0;
+    padding: 0;
+}
+
+* {
+	user-select: none;
+	-webkit-tap-highlight-color: rgb(0, 0, 0, 0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+
+#game_container {
+    position: relative;
+}
+
+#iphone-portrait {
+	background: url("../assets/iphone-landscape.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+	background-size: 100% auto;
+    display: block;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#ipad-portrait {
+	background: url("../assets/ipad-landscape-small.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+	background-size: 100% auto;
+    display: block;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#ipad-background {
+	background-color: #49721D;
+	background-image: url("../assets/common/2048x1536/play-screen/playing-game-sky.png");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+
+#ipad-crowd {
+	background-image: url("../assets/common/2048x1536/play-screen/playing-game-crowd-2.png");
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	
+	height: 512px;
+    position: absolute;
+    top: 0;
+    width: 1536px;
+}
